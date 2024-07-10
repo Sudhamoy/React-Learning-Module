@@ -1,0 +1,20 @@
+.profiles{
+  display: flex;
+  gap: 5px;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.profiles img{
+  width: 200px;
+  border-radius: 50%;
+}
+
+.user{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  background-color: black;
+  color: aliceblue;
+}

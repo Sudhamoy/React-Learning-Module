@@ -1,0 +1,28 @@
+*{
+  margin:0;
+  padding: 0;
+}
+
+.Navbar{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: black;
+  height: 70px;
+  gap:50px;
+  position:sticky; /* or, positio : fixed */
+  z-index: 10000;
+  top: 0; /* offset */
+}
+
+.left-nav{
+  display: flex;
+  justify-content: space-around;
+  gap: 30px;
+}
+
+.right-nav{
+  display: flex;
+  justify-content: space-around;
+  gap: 30px;
+}

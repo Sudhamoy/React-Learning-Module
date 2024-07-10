@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.ContactUs{
+  background:rgb(98, 213, 252);
+  margin: 10px;
+  padding: 20px;
+}
+
+.details{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 10px;
+}

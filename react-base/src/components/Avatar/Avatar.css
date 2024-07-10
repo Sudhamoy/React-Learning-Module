@@ -1,0 +1,7 @@
+.Avatar{
+  display: flex;
+  justify-content: space-evenly;
+  margin-block: 5%;
+  padding-block: 5%;
+  background-color: bisque;
+}
